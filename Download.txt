@@ -1,0 +1,5 @@
+sftp://test.rebex.net/pub/example/WinFormClient.png
+http://eskipaper.com/images/winter-season-wallpaper-1.jpg
+ftp://speedtest.tele2.net/100MB.zip
+http://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+http://www.hdnicewallpapers.com/Walls/Normal/Winter/Amazing_HD_Wallpaper_of_Winter_Season.jpg
